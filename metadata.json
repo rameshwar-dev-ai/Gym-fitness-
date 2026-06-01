@@ -1,0 +1,6 @@
+{
+  "name": "IronForge Fitness",
+  "description": "A modern, premium, conversion-focused gym website designed for local and corporate fitness sign-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
